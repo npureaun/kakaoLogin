@@ -1,0 +1,5 @@
+kakao:
+  rest-api-key: "99f98da38bbe3d408f2faefc24059028"
+  redirect-uri: "http://localhost:8080/oauth2/kakao/callback"
+  token-uri: "https://kauth.kakao.com/oauth/token"
+  user-info-uri: "https://kapi.kakao.com/v2/user/me"
